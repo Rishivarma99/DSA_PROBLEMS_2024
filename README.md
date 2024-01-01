@@ -4,17 +4,12 @@
 <h2>Dsa Problems</h2>
 <ol>
   <li>WEEK-1-JAN-(1-7)</li>
-  <ol>
+  <ol type="A">
     <li> <a> </a></li>
   </ol>
 </ol>
 
 
  
- // <ol>
-  // <li>WEEK-1-JAN-(1-7)</li>
-  // <ol> 
-     // <li> <a> </a></li> //
- // </ol> //
-// </ol> // 
+ 
 
