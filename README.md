@@ -8,6 +8,8 @@
     <li> <a> https://leetcode.com/submissions/detail/1133514798/ </a></li>
     <li> <a> https://leetcode.com/submissions/detail/1134760945/</a></li>
     <li> <a> https://leetcode.com/submissions/detail/1134772090/</a></li>
+    <li> <a>https://leetcode.com/problems/palindrome-number/description/</a></li>
+    
   </ol>
 </ol>
 
