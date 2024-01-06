@@ -11,6 +11,7 @@
     <li> <a href="https://leetcode.com/problems/palindrome-number/description/">palindrome-number</a></li>
     <li> <a href="https://leetcode.com/problems/length-of-last-word/description/">length-of-last-word</a></li>
     <li> <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/">find-the-index-of-the-first-occurrence-in-a-string</a></li>
+     <li> <a https://leetcode.com/problems/add-binary/description/"> find-the-index-of-the-first-occurrence-in-a-string</a></li>
   </ol>
 </ol>
 
