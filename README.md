@@ -13,6 +13,10 @@
     <li> <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/">find-the-index-of-the-first-occurrence-in-a-string</a></li>
      <li> <a https://leetcode.com/problems/add-binary/description/"> find-the-index-of-the-first-occurrence-in-a-string</a></li>
   </ol>
+  <li>WEEK-2-JAN-(8-14)</li>
+  <ol>
+    <li>REVISED PREVIOUS LEETCODE QUESTIONS</li>
+  </ol>
 </ol>
 
 
