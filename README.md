@@ -23,10 +23,3 @@
      <li> <a href="https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/"> subtract-the-product-and-sum-of-digits-of-an-intege</a></li>
   </ol>
 </ol>
-
-
-
-
- 
- 
-
