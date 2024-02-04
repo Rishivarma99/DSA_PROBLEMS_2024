@@ -26,4 +26,10 @@
   <ol>
     <li>REVISED PREVIOUS LEETCODE QUESTIONS</li>
   </ol>
+<li>WEEK-5-JAN-(29-04)</li>
+  <ol>
+    <li> <a href="https://leetcode.com/problems/rotate-array/submissions/1166012501/">Rotate Array</a></li>
+    <li> <a href="https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/">Largest Number At Least Twice of Others</a></li>
+  </ol>
+  
 </ol>
