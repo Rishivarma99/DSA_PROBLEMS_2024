@@ -35,6 +35,7 @@
   <li>WEEK-6-FEB-(05-11)</li>
   <ol>
     <li>REVISED PREVIOUS LEETCODE QUESTIONS</li>
+   <li>LEARNED BASIC OF STRINGS</li>
    
   </ol>
   
