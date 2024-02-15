@@ -38,5 +38,12 @@
    <li>LEARNED BASIC OF STRINGS</li>
    
   </ol>
+
+  <li>WEEK-7-FEB-(12-18)</li>
+  <ol>
+    <li>REVISED PREVIOUS LEETCODE QUESTIONS</li>
+ 
+   
+  </ol>
   
 </ol>
