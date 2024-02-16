@@ -42,8 +42,7 @@
   <li>WEEK-7-FEB-(12-18)</li>
   <ol>
     <li>REVISED PREVIOUS LEETCODE QUESTIONS</li>
- 
-   
+    <li><a href="https://leetcode.com/problems/single-number/description/">single Number</a> </li>
   </ol>
   
 </ol>
