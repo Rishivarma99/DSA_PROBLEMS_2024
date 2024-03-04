@@ -49,5 +49,11 @@
     <li>REVISED PREVIOUS LEETCODE QUESTIONS</li>
     <li><a href="https://leetcode.com/problems/search-insert-position/description/">search-insert-position</a> </li>
   </ol>
+
+  <li>WEEK-10-MAR-(04-11)</li>
+  <ol>
+    <li><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/">remove-nth-node-from-end-of-list/a> </li>
+       <li><a href="https://leetcode.com/problems/squares-of-a-sorted-array/description/">squares-of-a-sorted-array</a> </li>
+  </ol>
   
 </ol>
