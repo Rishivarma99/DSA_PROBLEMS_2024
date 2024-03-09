@@ -55,6 +55,9 @@
     <li><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/">remove-nth-node-from-end-of-list/a> </li>
        <li><a href="https://leetcode.com/problems/squares-of-a-sorted-array/description/">squares-of-a-sorted-array</a> </li>
       <li><a href="https://leetcode.com/problems/linked-list-cycle/">linked-list-cycle</a> </li>
+         <li><a href="https://leetcode.com/problems/reorder-list/description/">reorder-list</a> </li>
+         <li><a href="https://leetcode.com/problems/valid-parentheses/description/">valid-parentheses</a> </li>
+         <li><a href="https://leetcode.com/problems/min-stack/description/">min-stack</a> </li>
   </ol>
   
 </ol>
